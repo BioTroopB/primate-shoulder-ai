@@ -35,5 +35,14 @@ Buffalo Human Evolutionary Morphology Lab (BHEML)
 
 ---
 
+## Visualizations  
+<image-card alt="Humerus PCA Plot" src="Scatter%20Plot%20and%20Wireframe%20Humeri%203.png" ></image-card>  
+*PC1 vs PC2 — Hylobates lar = extreme outlier*
+
+<image-card alt="Neighbor-Joining Tree" src="Neighbor-joining%20tree.png" ></image-card>  
+*Phylogenetic signal from Procrustes distances*
+
+---
+
 **No custom code. 100% original data. Methods follow published protocols.**  
 *IBM AI Fundamentals + Capstone certified (Nov 2025)*

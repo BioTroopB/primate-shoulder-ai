@@ -54,9 +54,9 @@ Research conducted at **BHEML**, supported by the **National Science Foundation*
 
 ## Current AI Work  
 
-Extending the **master’s dataset** into **PrimateOsteoID.ai** — an open-source ML classifier for **species, sex, and side** from 3D shoulder bones.  
+Extended the **master’s dataset** into **PrimateOsteoID.ai** — an open-source ML classifier for **species, sex, and side** from 3D shoulder bones.  
 **No undergraduate data will be used.**  
-Code, models, and Streamlit app in a **separate repo**.  
+Code, models, and Streamlit app in **separate repo**.  
 AI development assisted by **Grok (xAI)**.
 
 ---

@@ -1,11 +1,3 @@
----
-title: Primate Shoulder Girdle Morphometrics
-emoji: 🦴
-colorFrom: blue
-colorTo: green
-pinned: false
----
-
 # Primate Shoulder Girdle Morphometrics  
 
 **M.A. Thesis + Senior-Honors Thesis – Kevin P. Klier**  
